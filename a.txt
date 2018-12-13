@@ -7,3 +7,5 @@ other  xxxxxbbbbbbbbbbb
 >>>>>>> 56c97cc51f94f730cda86de016ad1d1d0610e9fa
 
 myproject yyyyyy
+
+other  xxxxxxxxxxxxxxxxxxxxxx
